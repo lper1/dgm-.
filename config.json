@@ -1,0 +1,37 @@
+{
+  "tokens": [
+    "5a36bd3bd69a0f8824f735cc01bfe97c9e98aba4f9230a82ad5082553a6ad6c7c62a69ead80293afb50fa",
+    "f4960fc74c227658fcbc39c6424bae5591f84b0feb4698fe073eb2d77002a9c68210a8ae81144d66c857e",
+    "f6ecc68b1c1f1c6e77025ce04890413ee1aaa5286276fe7ee1200ef9a4da148a165ac44a6f1a8d9cee564"
+  ],
+  "rzr7l_mld": "IDM secret code",
+  "delete_all_notify": false,
+  "ru_captcha_key": "",
+  "ignored_members": [],
+  "ignored_global_members": [],
+  "muted_members": [],
+  "aliases": [],
+  "service_prefixes": [
+    "!слп",
+    ".слп"
+  ],
+  "self_prefixes": [
+    "!л",
+    ".л"
+  ],
+  "duty_prefixes": [
+    "!лд",
+    ".лд"
+  ],
+  "sloumo": [],
+  "auto_exit_from_chat": false,
+  "auto_exit_from_chat_delete_chat": false,
+  "auto_exit_from_chat_add_to_black_list": false,
+  "add_to_friends_on_chat_enter": [],
+  "role_play_commands": [],
+  "disable_notifications": true,
+  "trusted": [],
+  "repeater_word": "..",
+  "repeater_active": false,
+  "regex_deleter": []
+}
